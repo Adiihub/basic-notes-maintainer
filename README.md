@@ -4,7 +4,6 @@
 A simple yet functional Notes App built with React. Add, delete, and search your notes with data saved in `localStorage` to persist across sessions.
 
 ## 🚀 Features
-
 - Add new notes
 - Delete existing notes
 - Search notes in real-time
@@ -12,14 +11,12 @@ A simple yet functional Notes App built with React. Add, delete, and search your
 - Responsive and clean UI
 
 ## 🛠️ Tech Stack
-
 - React
 - HTML/CSS
 - JavaScript
 - LocalStorage API
 
 ## 📦 Installation
-
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/react-notes-app.git
@@ -36,8 +33,5 @@ A simple yet functional Notes App built with React. Add, delete, and search your
    ```bash
    npm start
    ```
-
-## 🖼️ Preview
-
-![Link](https://cosmic-lebkuchen-7d1f81.netlify.app/)
+ 
 
