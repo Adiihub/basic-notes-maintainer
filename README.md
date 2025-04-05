@@ -21,9 +21,9 @@ A simple yet functional Notes App built with React. Add, delete, and search your
 ## 📦 Installation
 
 1. Clone the repo:
-   ```bash
+   ``bash
    git clone https://github.com/your-username/react-notes-app.git
-   ```
+   ``
 2. Navigate to the project directory:
    ```bash
    cd react-notes-app
@@ -41,10 +41,3 @@ A simple yet functional Notes App built with React. Add, delete, and search your
 
 ![App Screenshot](screenshot.png)
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-> Built with ❤️ using React
